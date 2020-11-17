@@ -1,5 +1,5 @@
 # camera_web_interface
-## Utility software to convert *.h files in ESB32-Cam software to HTML files for editing then convert those HTML files back to compatible *.h files.
+## Utility software to convert *.h files in ESP32-Cam software to HTML files for editing then convert those HTML files back to compatible *.h files.
 
 This is intended for *camera_index.h* and assumes that it and 7z.exe are in the same folder as *ConvertHtoHTML.exe* and *ConvertHTMLtoH.exe*.
 
